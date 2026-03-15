@@ -75,6 +75,10 @@ src/
 - Java 21 instalado ([Download](https://www.oracle.com/br/java/technologies/downloads/#java21))
 - Maven 3.9+ instalado ([Download](https://maven.apache.org))
 
+> ⚠️ **Atenção:** O Maven deve estar configurado para usar o **Java 21**.
+> Caso tenha múltiplas versões do Java instaladas, verifique com `mvn -version`
+> se a versão exibida é a 21.
+
 ### Passo a passo
 ```bash
 # 1. Clone o repositório
