@@ -237,4 +237,4 @@ Os testes cobrem:
 
 ## 🎥 Vídeo Pitch
 
-[Link do vídeo aqui]
+[Link do vídeo](https://youtu.be/JDnsUcK9pMA)
